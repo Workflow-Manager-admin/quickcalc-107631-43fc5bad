@@ -6,6 +6,10 @@
   --border-color: rgba(255, 255, 255, 0.1);
 }
 
+/* The calculator component uses its own in-file light theme palette,
+   but feel free to adjust or override styles here if needed.
+ */
+
 body {
   margin: 0;
   font-family: 'Inter', 'Roboto', 'Helvetica', 'Arial', sans-serif;
